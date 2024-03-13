@@ -17,7 +17,7 @@ Base_Rate_26_27 = Base_Rate_25_26 / 2
 Base_Rate_27_28 = Base_Rate_26_27 / 2
 
 # Pi value per coin (Assuming Pi value at $104 as of 2022-03-12)
-pi_value_per_coin = 104 # USD
+pi_value_per_coin = 118.58 # USD
 
 # Boosters
 Pioneer_Booster = 1

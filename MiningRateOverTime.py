@@ -58,7 +58,7 @@ base_rate_annual_changes = {
     2030: 0.0073 / 64
 }
 
-pi_value_per_coin = 104  # USD
+pi_value_per_coin = 118.58  # USD
 pioneer_booster = 1
 num_security_circle = 5
 num_security_circle_booster = 20
